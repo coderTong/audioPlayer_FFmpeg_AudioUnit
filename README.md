@@ -1,0 +1,2 @@
+# audioPlayer_FFmpeg_AudioUnit
+利用FFmpeg解码本地文件然后输出给AudioUnit进行播放
